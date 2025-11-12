@@ -17,7 +17,6 @@ Tools Required:
 •	Advanced Analysis: Python (Pandas, NumPy, Scikit-learn), Jupyter Notebook, or RStudio.
 •	Simulation Integration: AnyLogic or FlexSim with Java/Python (Pycommunicator) input connectors for real-time score injection.
 
-
 Recommended Preprocessing:
 
 •	Normalize kg_score and Em_Score if used for comparative model training.
